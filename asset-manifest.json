@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/inflearn_react_netflix/static/css/main.ccccff9e.css",
+    "main.js": "/inflearn_react_netflix/static/js/main.9fbe971d.js",
+    "static/js/787.2cb6f25f.chunk.js": "/inflearn_react_netflix/static/js/787.2cb6f25f.chunk.js",
+    "index.html": "/inflearn_react_netflix/index.html",
+    "main.ccccff9e.css.map": "/inflearn_react_netflix/static/css/main.ccccff9e.css.map",
+    "main.9fbe971d.js.map": "/inflearn_react_netflix/static/js/main.9fbe971d.js.map",
+    "787.2cb6f25f.chunk.js.map": "/inflearn_react_netflix/static/js/787.2cb6f25f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccccff9e.css",
+    "static/js/main.9fbe971d.js"
+  ]
+}
