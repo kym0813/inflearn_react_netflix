@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/inflearn_react_netflix/static/css/main.ccccff9e.css",
-    "main.js": "/inflearn_react_netflix/static/js/main.9fbe971d.js",
-    "static/js/787.2cb6f25f.chunk.js": "/inflearn_react_netflix/static/js/787.2cb6f25f.chunk.js",
-    "index.html": "/inflearn_react_netflix/index.html",
-    "main.ccccff9e.css.map": "/inflearn_react_netflix/static/css/main.ccccff9e.css.map",
-    "main.9fbe971d.js.map": "/inflearn_react_netflix/static/js/main.9fbe971d.js.map",
-    "787.2cb6f25f.chunk.js.map": "/inflearn_react_netflix/static/js/787.2cb6f25f.chunk.js.map"
+    "main.css": "/netflix_react/static/css/main.ccccff9e.css",
+    "main.js": "/netflix_react/static/js/main.1250bee4.js",
+    "static/js/787.cd42c72d.chunk.js": "/netflix_react/static/js/787.cd42c72d.chunk.js",
+    "index.html": "/netflix_react/index.html",
+    "main.ccccff9e.css.map": "/netflix_react/static/css/main.ccccff9e.css.map",
+    "main.1250bee4.js.map": "/netflix_react/static/js/main.1250bee4.js.map",
+    "787.cd42c72d.chunk.js.map": "/netflix_react/static/js/787.cd42c72d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ccccff9e.css",
-    "static/js/main.9fbe971d.js"
+    "static/js/main.1250bee4.js"
   ]
 }
